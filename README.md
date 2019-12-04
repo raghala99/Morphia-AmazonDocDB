@@ -1,2 +1,2 @@
 # Morphia-AmazonDocDB
-Connecting from Standalone Java Application to Amazon DocumentDB
+Connecting to Amazon DocumentDB from Standalone Java Application.
